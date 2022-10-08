@@ -1,7 +1,7 @@
-# Discord Crypto alert bot Powered by appwrite
+# Discord crypto price alert bot powered by Appwrite
 
-This appwrite function will send scheduled crypto price alerts to a [discord](https://discord.com/) channel  
-using the [appwrite Functions](https://appwrite.io/docs/functions) feature.
+This [Appwrite](https://appwrite.io/) function will send scheduled crypto price alerts to a [discord](https://discord.com/) channel  
+using the [appwrite functions](https://appwrite.io/docs/functions) feature.
 
 ![discord](images/discord.png)
 
